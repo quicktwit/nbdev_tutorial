@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tutorial"
+  site-url: "https://quicktwit.github.io/nbdev_tutorial"
+  description: "Hands-on-tutorial"
+  repo-branch: master
+  repo-url: "https://github.com/quicktwit/nbdev_tutorial"
